@@ -1,4 +1,4 @@
-# Walking-Bus-Solver
+# Pedibus
 
 ![alt text](https://raw.githubusercontent.com/JessicaKANG/Walking-Bus-Solver/master/WalkingBus.png)
 
