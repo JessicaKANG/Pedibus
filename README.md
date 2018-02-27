@@ -1,2 +1,4 @@
 # Walking-Bus-Solver
-This is a solver for the walking bus problem.
+We solve the walking bus problem with
+* Deep first searching
+* Genetic algorithm
